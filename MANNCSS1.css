@@ -1,0 +1,17 @@
+/* doc background */
+body {
+    background-color: black;
+    color: red;
+    font-family: "Arial";
+}
+
+/* Headings */
+h1 {
+    color: red;
+    font-family: "Arial";}
+
+
+/* Paragraph text */
+p {
+    color: red;
+    font-family: "Arial";
